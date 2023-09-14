@@ -2,13 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=09CFBD&size=28&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Caio;I+am+a+student+at+the+federal+institute+of+Santa+Catarina,+Brazil;i'm+18yo;Be+free+and+welcome!+:%29)](https://git.io/typing-svg)
 
-//pra que serve
-//tantos codigos
-//se a vida
-//não é programada
-//e as melhores coisas
-//não tem logica
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caio-chzz&show_icons=true&count_private=true&hide_border=true&title_color=09CFBD&icon_color=09CFBD&text_color=c9d1d9&bg_color=0d1117" alt="caio-chzz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-chzz&layout=compact&hide_border=true&title_color=09CFBD&text_color=ff91a4&bg_color=0d1117" />
@@ -20,6 +13,8 @@
 <a href="https://instagram.com/c4_chezz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:caio.f04@aluno.ifsc.edu.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
+
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=09CFBD&heith=120&section=header](https://mail.google.com/mail/u/0?ui=2&ik=9c1c9869a3&attid=0.1&permmsgid=msg-f:1777020351278565136&th=18a93e982c994710&view=att&disp=safe&realattid=18a93e9458223dc11721)"/>
 <!--
   ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
