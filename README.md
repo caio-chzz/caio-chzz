@@ -14,8 +14,7 @@
 <a href = "mailto:caio.f04@aluno.ifsc.edu.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
-<img src=![Screenshot_20230914_103640_Google](https://github.com/caio-chzz/caio-chzz/assets/111304209/5424465f-0bfd-4628-b200-9c9c35901d07)
-""/>
+<img src=![Screenshot_20230914_103640_Google](https://github.com/caio-chzz/caio-chzz/assets/111304209/5424465f-0bfd-4628-b200-9c9c35901d07)/>
 <!--
   ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
