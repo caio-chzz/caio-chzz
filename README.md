@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=09CFBD&heith=120&section=header"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=09CFBD&heith=120&section=header"/>-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=09CFBD&size=28&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Caio;I+am+a+student+at+the+federal+institute+of+Santa+Catarina,+Brazil;i'm+18yo;Be+free+and+welcome!+:%29)](https://git.io/typing-svg)
 
@@ -23,7 +23,7 @@
 
 ![Screenshot_20230914_103640_Google](https://github.com/caio-chzz/caio-chzz/assets/111304209/783cf221-807c-4898-ae65-84b522bc5723)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=09CFBD&height=120&section=footer"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=09CFBD&height=120&section=footer"/>-->
 
 
 
